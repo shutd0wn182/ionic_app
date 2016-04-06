@@ -1,0 +1,10 @@
+.item-checkbox{
+    padding-left: 16px;
+}
+.item-checkbox .checkbox input{
+    right: 0;
+}
+.item.animated.ng-enter{
+	-webkit-animation-name: bounceInLeft;
+	animation-name: bounceInLeft;
+}
